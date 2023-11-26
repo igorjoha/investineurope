@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.e6c13ad2.css",
-    "main.js": "/react/static/js/main.4a18f38c.js",
-    "index.html": "/react/index.html",
-    "main.e6c13ad2.css.map": "/react/static/css/main.e6c13ad2.css.map",
-    "main.4a18f38c.js.map": "/react/static/js/main.4a18f38c.js.map"
+    "main.css": "/investineurope/static/css/main.e6c13ad2.css",
+    "main.js": "/investineurope/static/js/main.4a18f38c.js",
+    "index.html": "/investineurope/index.html",
+    "main.e6c13ad2.css.map": "/investineurope/static/css/main.e6c13ad2.css.map",
+    "main.4a18f38c.js.map": "/investineurope/static/js/main.4a18f38c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
